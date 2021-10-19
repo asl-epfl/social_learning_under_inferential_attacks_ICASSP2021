@@ -1,6 +1,6 @@
 # social_learning_under_inferential_attacks_ICASSP2021
 
-This is the code that corresponds to the simulations performed for the paper:
+This is the code that corresponds to the simulations performed in the paper:
 
 K. Ntemos, V. Bordignon, S. Vlaski and A. H. Sayed, “Social Learning Under Inferential Attacks,” in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 5479-5483, doi: 10.1109/ICASSP39728.2021.9413642.
 
