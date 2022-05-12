@@ -90,7 +90,7 @@ def create_observation_models(agents, states, obs, strategy):
     obs_matrix = np.random.rand(agents, states, obs)
     for agent in range(agents):
         for row in range(states):
-            obs_matrix[agent, row, :] = obs_matrix[agent, row, :] / (sum(obs_matrix[agent, row, :]))  # does it work?
+            obs_matrix[agent, row, :] = obs_matrix[agent, row, :] / (sum(obs_matrix[agent, row, :]))
     if strategy == 0: #uniform(same for all agents) manual, discriminative models (between the two states)
         for agent in range(agents):
             obs_matrix[agent, 0, 0] = 0.95
