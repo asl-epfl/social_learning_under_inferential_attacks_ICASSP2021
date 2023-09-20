@@ -1,4 +1,5 @@
-# social_learning_under_inferential_attacks_ICASSP2021
+# Release v1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8362667.svg)](https://doi.org/10.5281/zenodo.8362667)
+
 
 This is the code that corresponds to the simulations performed in the paper:
 
